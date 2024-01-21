@@ -2,7 +2,7 @@
 # Netflix Clone
 
 This project is a Netflix clone created using React, designed to replicate the user interface and functionality of the popular streaming service.
-![Uploading image.png…]()
+
 
 
 ## Features
